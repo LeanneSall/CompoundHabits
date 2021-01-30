@@ -4,8 +4,8 @@
   "description": "Habits API",
   "main": "index.js",
   "scripts": {
-    "start": "node server",
-    "server": "nodemon server"
+    "start": "node index",
+    "index": "nodemon index"
   },
   "author": "Leanne Sall",
   "license": "ISC",
